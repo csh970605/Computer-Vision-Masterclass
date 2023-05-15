@@ -1,7 +1,5 @@
 # Computer-Vision-Masterclass
 
-# Machine Learning A-Z
-
 This repository is a record of what I studied in a lecture on making computer vision machine learning models provided by Udemy with Python.
 <br>
 [Lecture_Link]
